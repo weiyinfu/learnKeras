@@ -1,4 +1,6 @@
-# Keras examples directory
+# keras学习记录
+时间：2018年下半年  
+因为tensorflow变化太大，很多代码已经无法运行，看看即可。
 
 ## Vision models examples
 
